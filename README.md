@@ -162,12 +162,17 @@ Candidates are displayed with:
 
 
 
+
+
+
+
+
 **Thank you**
 
-*Best Regards*
-*Aman Sharma*
-*Digital University Kerala (formerly IIITMK)*
-*aman.ds24@duk.ac.in | amansharmaaa9313@gmail.com*
+*Best Regards* |
+*Aman Sharma* |
+*Digital University Kerala (formerly IIITMK)* |
+*aman.ds24@duk.ac.in, amansharmaaa9313@gmail.com* |
 *+91 8799706360*
 
 - ***Linkedin:*** *https://www.linkedin.com/in/aman-sharma-4272ab231*
