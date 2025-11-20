@@ -179,4 +179,5 @@ Candidates are displayed with:
 - ***Portfolio:*** *https://aman18sh.github.io/portfolio/*
 - ***Medium:*** *https://medium.com/@amansharmaaa9313*
 - ***Github:*** *https://github.com/Aman18sh*
+- ***BI Portfolio:*** *https://my.novypro.com/amansharma-1*
 
