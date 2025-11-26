@@ -16,7 +16,7 @@ resume_prompt = PromptTemplate(
     - `email`: Candidate’s email address.
     - `phone`: Candidate’s phone number (if available).
     - `role`: Current or most recent job titles / designation with company details.
-    - `experience_years`: mention experience in strickly integer.
+    - `experience_years`: mention experience years in integer value if avaible else mention 0.
     - `skills`: List of technical and soft skills mentioned (normalized and deduplicated).
     - `education`: Highest qualification and institution.
     - `projects`: List of key projects with their titles and short descriptions.
