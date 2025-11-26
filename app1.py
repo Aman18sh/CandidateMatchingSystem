@@ -118,4 +118,4 @@ if run_btn:
 
     # Displaying Output to the interface
     st.subheader("Final Ranked Candidates")
-    st.write(response)
+    st.write(response.content)
