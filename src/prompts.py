@@ -87,7 +87,7 @@ candidate_matching_prompt = PromptTemplate(
     For each candidate:
     - Summarize strengths
     - Identify skill gaps
-    - Provide an overall fit score
+    - Provide an overall fit score in percentage out of 100%
     - Provide confidence level in the score
 
     After evaluating all candidates:
