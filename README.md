@@ -160,7 +160,7 @@ Candidates are displayed with:
 - UI: Streamlit
 
 
-
+**Demo Video:** https://youtu.be/Jim24E7_E0Q
 
 
 
